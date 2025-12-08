@@ -45,6 +45,7 @@ O projeto foi desenvolvido em duas etapas:
 ## 🛠️ Tecnologias e Ferramentas
 
 - MySQL Workbench
+- brModelo
 - Banco de dados relacional
 
 ---
